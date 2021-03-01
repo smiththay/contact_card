@@ -1,0 +1,24 @@
+
+html, body {
+    height: 100vh;
+}
+body {
+    background-image: url("/Images/marble.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: ;
+    background-size: cover;
+   
+    
+}
+.card{
+    background-color: rgba(255, 255, 255, 0.584);
+    
+    border-radius: 10%;
+}
+svg:hover path{
+    fill: rgb(255, 89, 0);
+  }
+  svg:hover polygon{
+    fill: rgb(255, 89, 0);
+  }
